@@ -1,19 +1,21 @@
 body{
-    background-color: rgb(170, 157, 141);
+    background-color: rgb(164, 163, 163);
 }
 .tela{
-    width:600px;
-    height:300px;
-    background-color: brown;
+    width:655px;
+    height:400px;
+    background-color: rgb(8, 5, 5);
     border:1px solid black ;
-    margin-top:50px;
-    margin-left:5px;
+    margin-top:150px;
+    margin-left:500px;
+    display: flex;
 }
 .lado{
-    width: 40%;
-    height: 90%;
+    width: 44%;
+    height: 89%;
     background-color: pink;
     margin-top: 5%;
     margin-left: 5%;
     display: inline-block;
 }
+    
